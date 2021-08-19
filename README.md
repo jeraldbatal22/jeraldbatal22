@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋 I'm Jerald
 
-<!--
-**jeraldbatal22/jeraldbatal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently student of Avion Shool as a software engineer
+- 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
+- 👯 I’m looking for the job as a junior dev to learn more about software engineer.
+- 💬 Ask me about anything not just about money^^
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Hobbies: Playing guitar and coding
+My Project
+
+Apps
+
+https://banking-budget-app.herokuapp.com/
+
 -->
