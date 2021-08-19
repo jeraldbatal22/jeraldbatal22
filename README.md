@@ -6,10 +6,10 @@
 - 💬 Ask me about anything not just about money^^
 - 📫 How to reach me: ...
 - ⚡ Hobbies: Playing guitar and coding
+
 My Project
 
 Apps
 
 https://banking-budget-app.herokuapp.com/
 
--->
