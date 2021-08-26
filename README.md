@@ -23,7 +23,7 @@ Apps
 - Banking App => https://banking-budget-app.herokuapp.com/ - Source Code => https://github.com/jeraldbatal22/banking_budget_app
 - Slack App Clone => https://slack-app-cl0ne.netlify.app/ - Source Code => https://github.com/jeraldbatal22/slack-app-clone
 - Tournament Crud using Challonge Api => https://t0urnament-app.netlify.app/ - Source Code => https://github.com/jeraldbatal22/tournament_api
-- Messenger App Clone => Source Code => https://github.com/jeraldbatal22/messenger_app_clone
+- Messenger App Clone => https://q0utes-app.herokuapp.com/qoutes Source Code => https://github.com/jeraldbatal22/messenger_app_clone
 
 Back End
 
