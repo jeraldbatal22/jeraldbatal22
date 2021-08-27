@@ -5,7 +5,7 @@
 - I am 4 years graduate of Bachelor of Science In Hotel and Restaurant Management and now a career shifter to software engineer industry
 - 🔭 I’m currently student of Avion Shool as a software engineer
 - 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
-- 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com
+- 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com, https://github.com/jeraldbatal22
 - ⚡ Hobbies: Playing guitar and coding
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldbatal22&theme=tokyonight)
@@ -34,4 +34,4 @@ Apps
 
 Back End
 
-- Qoutes App => Source Code => https://q0utes-app.herokuapp.com/qoutes - https://github.com/jeraldbatal22/ruby_blog
+- Qoutes App => Source Code => https://my-qoutes-app.herokuapp.com/qoutes - https://github.com/jeraldbatal22/ruby_blog
