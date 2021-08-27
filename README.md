@@ -6,6 +6,8 @@
 - 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com
 - ⚡ Hobbies: Playing guitar and coding
 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.jeraldbatal22)
+
 My Project as a software engineer student at Avion School
 
 Front End
