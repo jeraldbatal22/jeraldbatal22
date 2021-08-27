@@ -1,12 +1,14 @@
 ### Hello there 👋 I'm Jerald
 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.jeraldbatal22)
+
 - I am 4 years graduate of Bachelor of Science In Hotel and Restaurant Management and now a career shifter to software engineer industry
 - 🔭 I’m currently student of Avion Shool as a software engineer
 - 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
 - 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com
 - ⚡ Hobbies: Playing guitar and coding
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.jeraldbatal22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 My Project as a software engineer student at Avion School
 
