@@ -8,7 +8,7 @@
 - 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com
 - ⚡ Hobbies: Playing guitar and coding
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldbatal22&theme=tokyonight)
 
 My Project as a software engineer student at Avion School
 
