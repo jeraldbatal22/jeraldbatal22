@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.jeraldbatal22)
 
-- I am 4 years graduate of Bachelor of Science In Hotel and Restaurant Management and now a career shifter to software engineer industry
+- I am 4 years graduate of Bachelor of Science In Hotel and Restaurant Management and now shift into software engineer career.
 - 🔭 I’m currently student of Avion Shool as a software engineer
 - 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
 - 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com
