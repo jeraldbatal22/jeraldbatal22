@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
 - 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com, LinkedIn: https://www.linkedin.com/in/jerald-batal/
 - ⚡ Hobbies: Playing guitar and coding
-
+https://jeraldbatal22.netlify.app/
 <h3> See here my portfolio about me and projects including resources and deployed app </h3>
 
 https://jeraldbatal22.netlify.app/
