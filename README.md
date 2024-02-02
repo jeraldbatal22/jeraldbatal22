@@ -11,6 +11,7 @@
 <h3> See here my portfolio about me and projects including resources and deployed app </h3>
 
 https://jerald-portfolio-frontend-web-developer.vercel.app/
+</br>
 https://jeraldbatal22.netlify.app/
 
 <h3 align="left">Proficient Languages and Tools:</h3>
