@@ -5,7 +5,7 @@
 - I am 4 years graduate of Bachelor of Science In Hotel and Restaurant Management and now shift into software engineer career.
 - 🔭 I’m currently student of Avion Shool as a software engineer
 - 🌱 I’m currently learning html, css, javascript, react js and ruby on rails
-- 📫 How to reach me: Fb Account: https://www.facebook.com/jeraldbatal22, Gmail:btljrld22@gmail.com, LinkedIn: https://www.linkedin.com/in/jerald-batal/
+- 📫 How to reach me: </br> Fb Account: https://www.facebook.com/jeraldbatal22 </br> Gmail:btljrld22@gmail.com </br> LinkedIn: https://www.linkedin.com/in/jerald-batal/
 - ⚡ Hobbies: Playing guitar and coding
 
 <h3> See here my portfolio about me and projects including resources and deployed app </h3>
